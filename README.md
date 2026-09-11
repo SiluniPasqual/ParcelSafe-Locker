@@ -19,7 +19,7 @@ An automated, IoT-enabled secure delivery locker system designed to prevent parc
 ## User Interface & System Workflow
 Below is the system user interface and workflow displaying the Telegram notifications and LCD status prompts:
 
-![User Interface](User_Interface.png)
+![User Interface](UserInterface.png)
 
 1. **Entry:** Delivery driver enters the code on the keypad.
 2. **Notification:** The PIC microcontroller triggers the ESP8266 to send an interactive message via Telegram ("Welcome, grant access? /YES or /NO").
